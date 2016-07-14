@@ -19,4 +19,4 @@ For example, the Just scale with A440Hz as the fundamental will re-orient to a 6
 
 Also, if the PulseWd parameter is set to zero, the pulse wave oscillator will become a square wave oscillator--PulseWd applies to both oscillators. 
 
-To install on a Mac, drop the Ratio.vst file into your VST folder.
+Java must be installed on your computer to run Ratio. To install Ratio on a Mac, unzip "Ratio for Mac" and drop "Ratio.vst" into your VST folder. For Windows, unzip "Ratio for Windows" and drop the entire "jVSTwRapper-Release-1.0beta" folder into your VST folder. In your DAW, select and open the "jVSTwRapper-1.0beta" dll file. If your DAW cannot find Java, you can alter the "CustomJVMLocation" setting in the "jVSTwRapper-1.0beta" text file to reflect the path to your Java installation.
