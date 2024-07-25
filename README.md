@@ -1,5 +1,4 @@
 # Ratio Manual
-Just Intonation VST Synthesizer in Java
 
 Ratio is a just intonation VST synthesizer built in Java and utilizing jVSTwRapper. It takes incoming MIDI notes and maps them to different tunings. Left unaltered, MIDI notes sent to a synthesizer will play the 12-tone equal temperament (12-TET) tuning, where every note is an equally proportionate distance away from its neighbor. This tuning became popular in the 18th century with the standardization of keyboard design and the rise of modulation as a compositional tool. Prior to this, musicians and composers divided the octave into various numbers of steps and interval distances, ending up with tunings ranging from 5 to over 30 notes, unevenly spaced and often based on simple integer ratios.
 
