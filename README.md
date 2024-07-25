@@ -6,7 +6,7 @@ Ratio offers a choice of six different tunings, including 12-TET and 24-TET (als
 
 The Just Intonation (Just) tuning is based on the simplest possible fractions. The ratios to the fundamental tone for each scale degree are: (1) 1/1—fundamental, (2) 16/15—m2, (3) 9/8—M2, (4) 6/5—m3, (5) 5/4—M3, (6) 4/3—P4, (7) 7/5—tritone, (8) 3/2—P5, (9) 8/5—m6, (10) 5/3—M6, (11) 7/4—m7,  and (12) 15/8—M7.
 
-The Pythagorean (Pythag) tuning, in wide use until the advent of equal temperament, is based on multiples of the 3/2 (perfect fifth) interval. The Aulos tuning is an undertone tuning, which means that the constituent tones are produced by dividing rather than multiplying the fundamental tone by small integers. The Shruti tuning, normally 22 notes per octave but adapted in Ratio to 24 notes, is very close to a superimposition of the Just and Pythag tunings.
+The Pythagorean (Pythag) tuning, in wide use until the advent of equal temperament, is based on multiples of the 3/2 interval. Aulos is an undertone tuning, which means that constituent tones are produced by dividing rather than multiplying the fundamental tone by small integers. The Shruti tuning, normally 22 notes per octave but adapted in Ratio to 24 notes, is very close to a superimposition of the Just and Pythag tunings.
 
 Other than the tuning differences, Ratio is a fairly straightforward subtractive synthesizer. It has two primary oscillators, a Moog-style resonant filter, a pink noise generator, and two LFOs (one unsynced and one tempo-synced.) The two main oscillators are complemented by subharmonic and superharmonic oscillators, adding undertones and overtones, respectively. The fundamental tone, set by the FundKey parameter, can be A(440Hz) or any of the 12-TET pitches.
 
